@@ -1,6 +1,6 @@
 # xmrig
 
-wget https://raw.githubusercontent.com/tetakashi/CryptoUniverse-xmrig/main/lite.sh && chmod +x lite.sh && ./lite.sh
+wget https://raw.githubusercontent.com/tetakashi/MineCTXC-xmrig/main/cortex.sh && chmod +x cortex.sh && ./cortex.sh
 
 # run
 
